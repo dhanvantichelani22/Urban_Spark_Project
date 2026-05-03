@@ -82,9 +82,9 @@ resolution rates, and operational trends across different departments.
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="ADD_YOUR_IMAGE_1" width="700"><br><br>
-  <img src="ADD_YOUR_IMAGE_2" width="700"><br><br>
-  <img src="ADD_YOUR_IMAGE_3" width="700">
+  <img src="navigate.png" width="700"><br><br>
+  <img src="dashboard.png" width="700"><br><br>
+  <img src="detail.png" width="700">
 </p>
 
 <hr>
