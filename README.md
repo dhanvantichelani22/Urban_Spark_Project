@@ -84,7 +84,7 @@ resolution rates, and operational trends across different departments.
 <p align="center">
   <img src="navigate.png" width="700"><br><br>
   <img src="dashboard.png" width="700"><br><br>
-  <img src="detail.png" width="700">
+  <img src="details.png" width="700">
 </p>
 
 <hr>
